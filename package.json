@@ -1,0 +1,23 @@
+{
+  "name": "@nivuus/database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nivuus/database.git"
+  },
+  "author": "Maxime Allanic <maxime@allanic.me> (https://allanic.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nivuus/database/issues"
+  },
+  "homepage": "https://github.com/nivuus/database#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "q-native": "^1.0.1"
+  }
+}
